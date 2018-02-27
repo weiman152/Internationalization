@@ -1,0 +1,15 @@
+
+/* Class = "UILabel"; text = "选择国家"; ObjectID = "ADs-t3-up8"; */
+"ADs-t3-up8.text" = "choose country";
+
+/* Class = "UIButton"; normalTitle = "返回"; ObjectID = "HZI-ct-Miq"; */
+"HZI-ct-Miq.normalTitle" = "back";
+
+/* Class = "UILabel"; text = "当前选择的语言是："; ObjectID = "W7V-hw-zHU"; */
+"W7V-hw-zHU.text" = "current choose language :";
+
+/* Class = "UIButton"; normalTitle = "选择"; ObjectID = "Zpl-8f-XKX"; */
+"Zpl-8f-XKX.normalTitle" = "choose";
+
+/* Class = "UILabel"; text = "选择语言"; ObjectID = "cSj-C9-db3"; */
+"cSj-C9-db3.text" = "choose language";
